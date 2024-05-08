@@ -1,0 +1,525 @@
+Name,URI,Region GSS code,Period,Sales volume,Reporting period,House price index All property types,Pivotable date
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-01,301,monthly,93.48,01-01-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-01,141,monthly,92.3,01-01-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-01,525,monthly,91.71,01-01-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-01,1387,monthly,92.92,01-01-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-02,353,monthly,93.05,01-02-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-02,150,monthly,90.08,01-02-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-02,566,monthly,92.31,01-02-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-02,1576,monthly,92.33,01-02-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-03,410,monthly,93.15,01-03-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-03,203,monthly,88.86,01-03-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-03,731,monthly,91.61,01-03-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-03,1944,monthly,92.01,01-03-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-04,332,monthly,93.38,01-04-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-04,174,monthly,92.62,01-04-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-04,651,monthly,91.72,01-04-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-04,1686,monthly,92.44,01-04-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-05,476,monthly,95.12,01-05-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-05,202,monthly,92.83,01-05-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-05,823,monthly,90.56,01-05-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-05,2194,monthly,92.92,01-05-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-06,425,monthly,95.72,01-06-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-06,221,monthly,94.14,01-06-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-06,978,monthly,91.41,01-06-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-06,2334,monthly,93.62,01-06-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-07,493,monthly,97.13,01-07-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-07,279,monthly,95.01,01-07-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-07,930,monthly,92.03,01-07-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-07,2417,monthly,94.41,01-07-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-08,527,monthly,97.58,01-08-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-08,280,monthly,96.79,01-08-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-08,1063,monthly,92.56,01-08-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-08,2659,monthly,94.73,01-08-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-09,497,monthly,98.47,01-09-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-09,233,monthly,96.67,01-09-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-09,860,monthly,93.73,01-09-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-09,2348,monthly,95.68,01-09-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-10,530,monthly,97.47,01-10-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-10,299,monthly,95.34,01-10-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-10,1072,monthly,93.29,01-10-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-10,2780,monthly,95.32,01-10-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-11,646,monthly,96.09,01-11-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-11,297,monthly,94.44,01-11-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-11,1118,monthly,94.29,01-11-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-11,2988,monthly,95.52,01-11-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2013-12,613,monthly,95.73,01-12-13
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2013-12,327,monthly,95.09,01-12-13
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2013-12,1028,monthly,94.71,01-12-13
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2013-12,2849,monthly,95.57,01-12-13
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-01,485,monthly,97.53,01-01-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-01,238,monthly,94.87,01-01-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-01,945,monthly,95.48,01-01-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-01,2403,monthly,96.17,01-01-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-02,533,monthly,99.09,01-02-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-02,230,monthly,95.63,01-02-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-02,863,monthly,95.43,01-02-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-02,2360,monthly,96.44,01-02-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-03,476,monthly,99.04,01-03-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-03,263,monthly,94.82,01-03-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-03,955,monthly,94.63,01-03-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-03,2428,monthly,95.97,01-03-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-04,538,monthly,98.87,01-04-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-04,249,monthly,96.18,01-04-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-04,970,monthly,95.45,01-04-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-04,2551,monthly,96.67,01-04-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-05,587,monthly,99.32,01-05-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-05,279,monthly,96.64,01-05-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-05,1078,monthly,96.81,01-05-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-05,2860,monthly,97.75,01-05-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-06,705,monthly,99.63,01-06-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-06,255,monthly,97.87,01-06-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-06,1155,monthly,98.13,01-06-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-06,3036,monthly,98.92,01-06-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-07,642,monthly,100.87,01-07-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-07,314,monthly,98.57,01-07-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-07,1157,monthly,98.99,01-07-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-07,3023,monthly,99.93,01-07-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-08,683,monthly,102.04,01-08-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-08,298,monthly,99.16,01-08-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-08,1138,monthly,99.57,01-08-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-08,3113,monthly,100.59,01-08-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-09,635,monthly,101.39,01-09-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-09,307,monthly,99.86,01-09-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-09,1078,monthly,100.56,01-09-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-09,2954,monthly,100.81,01-09-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-10,700,monthly,100.15,01-10-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-10,367,monthly,99.82,01-10-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-10,1237,monthly,100.83,01-10-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-10,3289,monthly,100.54,01-10-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-11,604,monthly,98.6,01-11-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-11,310,monthly,98.76,01-11-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-11,993,monthly,100.37,01-11-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-11,2757,monthly,99.99,01-11-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2014-12,581,monthly,100.31,01-12-14
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2014-12,343,monthly,99.34,01-12-14
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2014-12,974,monthly,100.27,01-12-14
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2014-12,2770,monthly,100.54,01-12-14
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-01,392,monthly,100,01-01-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-01,189,monthly,100,01-01-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-01,760,monthly,100,01-01-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-01,1931,monthly,100,01-01-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-02,427,monthly,99.28,01-02-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-02,217,monthly,99.21,01-02-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-02,837,monthly,99.91,01-02-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-02,2159,monthly,99.56,01-02-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-03,594,monthly,97.46,01-03-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-03,225,monthly,97.59,01-03-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-03,898,monthly,99.39,01-03-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-03,2586,monthly,98.79,01-03-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-04,555,monthly,97.92,01-04-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-04,244,monthly,96.25,01-04-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-04,879,monthly,99.85,01-04-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-04,2446,monthly,99.46,01-04-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-05,640,monthly,99.79,01-05-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-05,302,monthly,98.63,01-05-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-05,1001,monthly,101.22,01-05-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-05,2874,monthly,100.98,01-05-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-06,657,monthly,102.89,01-06-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-06,273,monthly,101.15,01-06-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-06,1183,monthly,102.35,01-06-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-06,3089,monthly,102.56,01-06-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-07,688,monthly,105.49,01-07-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-07,337,monthly,103.53,01-07-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-07,1222,monthly,103.69,01-07-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-07,3377,monthly,104.14,01-07-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-08,575,monthly,106.56,01-08-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-08,312,monthly,104.36,01-08-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-08,1101,monthly,104.73,01-08-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-08,2996,monthly,105.08,01-08-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-09,590,monthly,107.01,01-09-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-09,283,monthly,104.36,01-09-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-09,1062,monthly,105.84,01-09-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-09,2807,monthly,105.53,01-09-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-10,745,monthly,106.46,01-10-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-10,328,monthly,104.16,01-10-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-10,1270,monthly,106.51,01-10-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-10,3497,monthly,105.53,01-10-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-11,619,monthly,106.66,01-11-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-11,270,monthly,105.4,01-11-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-11,1086,monthly,106.31,01-11-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-11,2965,monthly,105.56,01-11-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2015-12,636,monthly,105.77,01-12-15
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2015-12,306,monthly,104.64,01-12-15
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2015-12,1043,monthly,107.94,01-12-15
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2015-12,3037,monthly,106.32,01-12-15
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-01,474,monthly,106.19,01-01-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-01,201,monthly,105.3,01-01-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-01,828,monthly,107.51,01-01-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-01,2217,monthly,106.57,01-01-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-02,494,monthly,105.67,01-02-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-02,250,monthly,103.25,01-02-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-02,932,monthly,107.6,01-02-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-02,2474,monthly,106.21,01-02-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-03,830,monthly,104.75,01-03-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-03,421,monthly,104.45,01-03-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-03,1574,monthly,105.56,01-03-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-03,4174,monthly,105.14,01-03-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-04,506,monthly,104.6,01-04-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-04,192,monthly,104.33,01-04-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-04,725,monthly,106.63,01-04-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-04,2289,monthly,105.75,01-04-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-05,482,monthly,105.05,01-05-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-05,195,monthly,106.55,01-05-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-05,926,monthly,108.73,01-05-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-05,2465,monthly,107.06,01-05-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-06,602,monthly,108.51,01-06-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-06,260,monthly,106.17,01-06-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-06,1105,monthly,110.72,01-06-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-06,2983,monthly,108.95,01-06-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-07,631,monthly,110.24,01-07-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-07,332,monthly,107.48,01-07-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-07,1189,monthly,112.44,01-07-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-07,3186,monthly,110.11,01-07-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-08,643,monthly,111.23,01-08-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-08,267,monthly,107.75,01-08-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-08,1248,monthly,112.98,01-08-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-08,3256,monthly,110.79,01-08-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-09,611,monthly,110.1,01-09-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-09,280,monthly,109.83,01-09-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-09,1110,monthly,113.89,01-09-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-09,3047,monthly,110.87,01-09-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-10,616,monthly,110.78,01-10-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-10,244,monthly,109.56,01-10-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-10,990,monthly,112.93,01-10-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-10,2848,monthly,110.64,01-10-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-11,616,monthly,110.78,01-11-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-11,323,monthly,108.88,01-11-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-11,1037,monthly,112.35,01-11-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-11,2926,monthly,110.34,01-11-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2016-12,655,monthly,110.66,01-12-16
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2016-12,307,monthly,107.37,01-12-16
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2016-12,1127,monthly,112.51,01-12-16
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2016-12,3251,monthly,110.69,01-12-16
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-01,483,monthly,108.67,01-01-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-01,181,monthly,103.05,01-01-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-01,904,monthly,112.48,01-01-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-01,2338,monthly,109.54,01-01-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-02,492,monthly,109.47,01-02-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-02,248,monthly,102.6,01-02-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-02,936,monthly,112.87,01-02-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-02,2488,monthly,109.66,01-02-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-03,657,monthly,108.91,01-03-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-03,281,monthly,102.46,01-03-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-03,1041,monthly,112.52,01-03-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-03,3057,monthly,109.09,01-03-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-04,555,monthly,109.74,01-04-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-04,238,monthly,106.59,01-04-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-04,902,monthly,113.11,01-04-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-04,2605,monthly,110.35,01-04-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-05,588,monthly,110.05,01-05-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-05,257,monthly,108.32,01-05-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-05,1015,monthly,114.01,01-05-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-05,2867,monthly,111.34,01-05-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-06,679,monthly,112.6,01-06-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-06,311,monthly,110.55,01-06-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-06,1311,monthly,115.22,01-06-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-06,3506,monthly,112.89,01-06-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-07,729,monthly,113.3,01-07-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-07,320,monthly,112.39,01-07-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-07,1078,monthly,117,01-07-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-07,3236,monthly,114.25,01-07-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-08,719,monthly,115.14,01-08-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-08,321,monthly,112.23,01-08-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-08,1155,monthly,117.41,01-08-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-08,3277,monthly,115.04,01-08-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-09,643,monthly,114.55,01-09-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-09,320,monthly,111.06,01-09-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-09,1106,monthly,117.87,01-09-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-09,3063,monthly,115.12,01-09-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-10,698,monthly,115.17,01-10-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-10,299,monthly,109.48,01-10-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-10,1120,monthly,117.34,01-10-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-10,3241,monthly,114.91,01-10-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-11,788,monthly,113.49,01-11-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-11,296,monthly,108.4,01-11-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-11,1110,monthly,117.53,01-11-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-11,3232,monthly,114.57,01-11-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2017-12,651,monthly,113.47,01-12-17
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2017-12,301,monthly,109.63,01-12-17
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2017-12,1104,monthly,118.64,01-12-17
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2017-12,3160,monthly,115.22,01-12-17
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-01,530,monthly,111.69,01-01-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-01,192,monthly,109.87,01-01-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-01,839,monthly,119.26,01-01-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-01,2279,monthly,114.99,01-01-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-02,501,monthly,109.86,01-02-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-02,224,monthly,109.91,01-02-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-02,921,monthly,119.15,01-02-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-02,2503,monthly,114.36,01-02-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-03,649,monthly,109.04,01-03-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-03,318,monthly,109.8,01-03-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-03,925,monthly,118.4,01-03-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-03,2865,monthly,113.63,01-03-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-04,558,monthly,109.6,01-04-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-04,232,monthly,111.56,01-04-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-04,906,monthly,118.7,01-04-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-04,2552,monthly,113.95,01-04-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-05,506,monthly,111.16,01-05-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-05,252,monthly,113.74,01-05-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-05,1022,monthly,119.79,01-05-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-05,2791,monthly,115.11,01-05-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-06,661,monthly,112.27,01-06-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-06,313,monthly,115.44,01-06-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-06,1229,monthly,120.54,01-06-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-06,3313,monthly,116.21,01-06-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-07,658,monthly,114.87,01-07-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-07,341,monthly,114.58,01-07-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-07,1071,monthly,121.82,01-07-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-07,3116,monthly,117.56,01-07-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-08,745,monthly,116.46,01-08-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-08,350,monthly,114.84,01-08-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-08,1252,monthly,122.81,01-08-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-08,3500,monthly,118.76,01-08-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-09,591,monthly,117.33,01-09-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-09,319,monthly,115.03,01-09-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-09,966,monthly,122.97,01-09-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-09,2859,monthly,119.12,01-09-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-10,708,monthly,116.1,01-10-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-10,331,monthly,116.53,01-10-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-10,1168,monthly,122.16,01-10-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-10,3289,monthly,118.98,01-10-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-11,799,monthly,115.5,01-11-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-11,323,monthly,116.21,01-11-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-11,1152,monthly,121.41,01-11-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-11,3527,monthly,118.34,01-11-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2018-12,652,monthly,114.47,01-12-18
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2018-12,305,monthly,116.04,01-12-18
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2018-12,957,monthly,121.59,01-12-18
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2018-12,3031,monthly,118.24,01-12-18
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-01,511,monthly,113.69,01-01-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-01,221,monthly,115.24,01-01-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-01,833,monthly,121.8,01-01-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-01,2350,monthly,117.9,01-01-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-02,594,monthly,111.15,01-02-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-02,234,monthly,114.74,01-02-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-02,976,monthly,121.83,01-02-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-02,2662,monthly,116.91,01-02-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-03,679,monthly,110.62,01-03-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-03,270,monthly,114.67,01-03-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-03,994,monthly,122.41,01-03-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-03,2938,monthly,116.86,01-03-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-04,608,monthly,111.38,01-04-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-04,269,monthly,115.32,01-04-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-04,885,monthly,121.48,01-04-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-04,2678,monthly,116.69,01-04-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-05,592,monthly,113.21,01-05-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-05,290,monthly,115.73,01-05-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-05,1000,monthly,122.54,01-05-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-05,2863,monthly,117.81,01-05-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-06,656,monthly,114.3,01-06-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-06,268,monthly,115.62,01-06-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-06,1012,monthly,122.04,01-06-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-06,3078,monthly,118.25,01-06-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-07,661,monthly,115.97,01-07-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-07,280,monthly,117.31,01-07-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-07,1118,monthly,124.23,01-07-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-07,3076,monthly,119.77,01-07-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-08,699,monthly,116.69,01-08-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-08,331,monthly,118.97,01-08-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-08,1168,monthly,124.95,01-08-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-08,3297,monthly,120.97,01-08-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-09,598,monthly,116.99,01-09-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-09,241,monthly,120.88,01-09-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-09,969,monthly,126.39,01-09-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-09,2783,monthly,121.66,01-09-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-10,712,monthly,116.16,01-10-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-10,302,monthly,120.85,01-10-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-10,1072,monthly,126.4,01-10-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-10,3152,monthly,121.58,01-10-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-11,682,monthly,116.65,01-11-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-11,303,monthly,122.09,01-11-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-11,1111,monthly,126.14,01-11-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-11,3200,monthly,121.35,01-11-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2019-12,592,monthly,115.29,01-12-19
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2019-12,265,monthly,120.09,01-12-19
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2019-12,1015,monthly,126.6,01-12-19
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2019-12,2931,monthly,121.13,01-12-19
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-01,582,monthly,114.6,01-01-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-01,233,monthly,118.83,01-01-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-01,916,monthly,126.57,01-01-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-01,2516,monthly,120.9,01-01-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-02,454,monthly,113.44,01-02-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-02,214,monthly,117.76,01-02-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-02,746,monthly,126.06,01-02-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-02,2203,monthly,120.41,01-02-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-03,489,monthly,114.16,01-03-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-03,204,monthly,117.19,01-03-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-03,776,monthly,124.82,01-03-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-03,2249,monthly,120.18,01-03-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-04,211,monthly,112.09,01-04-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-04,97,monthly,117.86,01-04-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-04,327,monthly,123.29,01-04-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-04,1037,monthly,118.94,01-04-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-05,287,monthly,110.24,01-05-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-05,149,monthly,116.1,01-05-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-05,482,monthly,123.67,01-05-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-05,1424,monthly,118.41,01-05-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-06,405,monthly,112.13,01-06-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-06,180,monthly,116.58,01-06-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-06,758,monthly,125.51,01-06-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-06,2073,monthly,119.59,01-06-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-07,493,monthly,116.61,01-07-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-07,216,monthly,118.14,01-07-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-07,772,monthly,128.58,01-07-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-07,2252,monthly,122.28,01-07-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-08,507,monthly,122.12,01-08-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-08,237,monthly,121.17,01-08-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-08,838,monthly,130.83,01-08-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-08,2372,monthly,125.3,01-08-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-09,579,monthly,123.57,01-09-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-09,225,monthly,123.96,01-09-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-09,899,monthly,131.95,01-09-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-09,2598,monthly,126.33,01-09-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-10,688,monthly,123.57,01-10-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-10,306,monthly,124.55,01-10-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-10,1135,monthly,133.2,01-10-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-10,3271,monthly,127.41,01-10-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-11,693,monthly,124.89,01-11-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-11,268,monthly,125.14,01-11-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-11,1164,monthly,135.41,01-11-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-11,3237,monthly,128.88,01-11-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2020-12,707,monthly,126.9,01-12-20
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2020-12,341,monthly,125.88,01-12-20
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2020-12,1111,monthly,136.72,01-12-20
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2020-12,3327,monthly,130.84,01-12-20
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-01,537,monthly,129.81,01-01-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-01,303,monthly,125.07,01-01-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-01,900,monthly,139,01-01-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-01,2498,monthly,132.5,01-01-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-02,715,monthly,130.31,01-02-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-02,386,monthly,126.69,01-02-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-02,1064,monthly,138.79,01-02-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-02,3233,monthly,133,01-02-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-03,846,monthly,129.74,01-03-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-03,442,monthly,129.17,01-03-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-03,1540,monthly,139.86,01-03-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-03,4125,monthly,133.79,01-03-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-04,692,monthly,129.27,01-04-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-04,326,monthly,131.82,01-04-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-04,1008,monthly,139,01-04-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-04,3019,monthly,133.62,01-04-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-05,601,monthly,128.38,01-05-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-05,231,monthly,132.27,01-05-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-05,922,monthly,139.53,01-05-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-05,2635,monthly,134.1,01-05-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-06,936,monthly,132.6,01-06-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-06,443,monthly,134.53,01-06-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-06,1727,monthly,143.04,01-06-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-06,4664,monthly,137.52,01-06-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-07,532,monthly,131.02,01-07-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-07,261,monthly,132.93,01-07-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-07,718,monthly,142.34,01-07-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-07,2389,monthly,136.95,01-07-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-08,683,monthly,132.34,01-08-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-08,250,monthly,135.41,01-08-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-08,933,monthly,142.69,01-08-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-08,2893,monthly,137.8,01-08-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-09,973,monthly,132.75,01-09-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-09,469,monthly,137.59,01-09-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-09,1553,monthly,141.34,01-09-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-09,4585,monthly,137.57,01-09-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-10,486,monthly,133.81,01-10-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-10,234,monthly,140.94,01-10-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-10,648,monthly,143,01-10-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-10,2183,monthly,139.63,01-10-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-11,587,monthly,136.02,01-11-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-11,256,monthly,139.42,01-11-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-11,812,monthly,143.51,01-11-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-11,2592,monthly,140.29,01-11-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2021-12,649,monthly,133.64,01-12-21
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2021-12,291,monthly,135.66,01-12-21
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2021-12,878,monthly,143.57,01-12-21
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2021-12,2741,monthly,139.19,01-12-21
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-01,525,monthly,135.35,01-01-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-01,187,monthly,135.46,01-01-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-01,780,monthly,146.81,01-01-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-01,2213,monthly,141.23,01-01-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-02,560,monthly,134.57,01-02-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-02,245,monthly,138.28,01-02-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-02,849,monthly,149.33,01-02-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-02,2501,monthly,142.8,01-02-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-03,610,monthly,134.71,01-03-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-03,274,monthly,139.82,01-03-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-03,843,monthly,150.36,01-03-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-03,2627,monthly,143.73,01-03-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-04,550,monthly,136.6,01-04-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-04,247,monthly,139.8,01-04-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-04,776,monthly,151.3,01-04-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-04,2555,monthly,144.6,01-04-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-05,520,monthly,139.4,01-05-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-05,209,monthly,139.2,01-05-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-05,779,monthly,152.2,01-05-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-05,2389,monthly,146,01-05-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-06,569,monthly,141,01-06-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-06,219,monthly,136.8,01-06-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-06,786,monthly,154.2,01-06-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-06,2491,monthly,147.6,01-06-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-07,538,monthly,144.8,01-07-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-07,279,monthly,139.4,01-07-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-07,952,monthly,156.6,01-07-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-07,2728,monthly,150,01-07-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-08,625,monthly,145.6,01-08-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-08,289,monthly,142.1,01-08-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-08,964,monthly,158.9,01-08-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-08,2828,monthly,152,01-08-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-09,593,monthly,147.8,01-09-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-09,255,monthly,147.1,01-09-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-09,887,monthly,160.2,01-09-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-09,2681,monthly,154,01-09-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-10,604,monthly,146.7,01-10-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-10,275,monthly,148.9,01-10-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-10,885,monthly,161.6,01-10-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-10,2655,monthly,154.6,01-10-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-11,655,monthly,147.6,01-11-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-11,298,monthly,149.7,01-11-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-11,951,monthly,162.9,01-11-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-11,2818,monthly,155.3,01-11-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2022-12,568,monthly,147.9,01-12-22
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2022-12,243,monthly,149.4,01-12-22
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2022-12,893,monthly,162.7,01-12-22
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2022-12,2550,monthly,155.5,01-12-22
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-01,462,monthly,147,01-01-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-01,210,monthly,146.8,01-01-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-01,612,monthly,158.9,01-01-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-01,1881,monthly,153.9,01-01-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-02,422,monthly,145,01-02-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-02,166,monthly,142.8,01-02-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-02,636,monthly,157.6,01-02-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-02,1796,monthly,152.1,01-02-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-03,451,monthly,142.3,01-03-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-03,216,monthly,140.2,01-03-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-03,683,monthly,156.4,01-03-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-03,2067,monthly,150,01-03-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-04,327,monthly,141.1,01-04-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-04,166,monthly,141.9,01-04-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-04,521,monthly,157,01-04-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-04,1525,monthly,149.7,01-04-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-05,362,monthly,139.7,01-05-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-05,160,monthly,143.6,01-05-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-05,526,monthly,156.6,01-05-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-05,1605,monthly,149.3,01-05-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-06,454,monthly,140.3,01-06-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-06,191,monthly,145.9,01-06-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-06,694,monthly,157.3,01-06-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-06,2006,monthly,150,01-06-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-07,445,monthly,143.1,01-07-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-07,178,monthly,147.7,01-07-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-07,663,monthly,160.4,01-07-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-07,1903,monthly,152.3,01-07-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-08,443,monthly,145.7,01-08-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-08,213,monthly,148.2,01-08-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-08,684,monthly,163.3,01-08-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-08,1971,monthly,154.4,01-08-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-09,366,monthly,146.2,01-09-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-09,183,monthly,147,01-09-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-09,575,monthly,165.1,01-09-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-09,1636,monthly,155.2,01-09-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-10,,monthly,146,01-10-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-10,,monthly,143.4,01-10-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-10,,monthly,163.5,01-10-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-10,,monthly,154.7,01-10-23
+Bradford,http://landregistry.data.gov.uk/id/region/bradford,E08000032,2023-11,,monthly,150,01-11-23
+Calderdale,http://landregistry.data.gov.uk/id/region/calderdale,E08000033,2023-11,,monthly,147.5,01-11-23
+Leeds,http://landregistry.data.gov.uk/id/region/leeds,E08000035,2023-11,,monthly,161.8,01-11-23
+West Yorkshire,http://landregistry.data.gov.uk/id/region/west-yorkshire,E11000006,2023-11,,monthly,155.5,01-11-23
